@@ -1,0 +1,8 @@
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\obj\Debug\Práctica_2_Segundo_Parcial.csproj.AssemblyReference.cache
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\obj\Debug\Práctica_2_Segundo_Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\obj\Debug\Práctica_2_Segundo_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\bin\Debug\Práctica_2_Segundo_Parcial.exe.config
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\bin\Debug\Práctica_2_Segundo_Parcial.exe
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\bin\Debug\Práctica_2_Segundo_Parcial.pdb
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\obj\Debug\Práctica_2_Segundo_Parcial.exe
+C:\Users\anton\Source\Repos\Pr-ctica_2_Segundo_Parcial\Práctica_2_Segundo_Parcial\obj\Debug\Práctica_2_Segundo_Parcial.pdb
